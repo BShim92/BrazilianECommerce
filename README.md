@@ -1,5 +1,4 @@
 # Brazilian Economic Trends 
-Project
 Team Members 
 Adam Brush
 Brandon Shimamoto
@@ -16,4 +15,4 @@ These spending habits are then observed for any trends. Additional metrics used 
 
 DataSets: 
 Brazilian E-Commerce dataset 
-Central Bank of Brazil API pulling CPI, BOVESPA, and employment statistics 
+Central Bank of Brazil API - CPI, BOVESPA, and employment statistics 
