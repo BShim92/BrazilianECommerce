@@ -17,12 +17,13 @@ DataSets:
 Brazilian E-Commerce dataset 
 Central Bank of Brazil API - CPI, BOVESPA, and employment statistics 
 
-#Location of adam comments: 
-All of my comments start with #ADAM LUKE: 
+#Adam's Comments locations (Starts with #ADAM LUKE:)
 
-    BOVESPAData: code block In [2]
-                 code block In [7]
+File:                       Block in file: 
+BOVESPAData.ipynb           block in [2]
+                            block in [7]
 
-    CPI_employement: code block In [14]
+CPI_employment.ipynb        block in [14]
 
-    ECommerceDataMerge: 3rd block from top (not numbered)
+ECommerceDataMerge.ipynb    3rd block from top (not numbered)
+
