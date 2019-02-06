@@ -16,3 +16,14 @@ These spending habits are then observed for any trends. Additional metrics used 
 DataSets: 
 Brazilian E-Commerce dataset 
 Central Bank of Brazil API - CPI, BOVESPA, and employment statistics 
+
+#Adam's Comments locations (Starts with #ADAM LUKE:)
+
+File:                       Block in file: 
+BOVESPAData.ipynb           block in [2]
+                            block in [7]
+
+CPI_employment.ipynb        block in [14]
+
+ECommerceDataMerge.ipynb    3rd block from top (not numbered)
+
