@@ -1,7 +1,7 @@
 # Brazilian Economic Trends 
 Team Members 
 Adam Brush
-Brandon Shimamoto
+Branden Shimamoto
 Fatima Baig 
 Wendy Pollinger
 
