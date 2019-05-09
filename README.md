@@ -1,29 +1,25 @@
-# Brazilian Economic Trends 
-Team Members 
-Adam Brush
-Branden Shimamoto
-Fatima Baig 
-Wendy Pollinger
+# Brazilian Economic Trends
 
-Objective:
-To obeserve any economic trends between 2014 and 2016 based on e-commerce spending habits by Brazilian citizens. 
+## Team Members 
+- Adam Brush
+- Branden Shimamoto
+- Fatima Baig 
+- Wendy Pollinger
 
-Spending habits are to be categorized by month and total spending within the respective product category.
+## Data
+- 6 .csv's from Kaggle
+  - olist_order_items_dataset.csv
+  - olist_orders_dataset.csv
+  - olist_products_dataset.csv
+  - product_category_name_translation.csv
+  - olist_customers_dataset.csv
+  - olist_geolocation_dataset.csv
+- 112,000 rows of product data between 9/3/2016 - 10/16/2018 
+- BOVESPA (Brazilian Benchmark Index) data pulled from Quandl API
 
-These spending habits are then observed for any trends. Additional metrics used will be the Consumer Pricing Index, Employment Statistics, and BOVESPA market data(the brazilian stock market)
+## Objective
+- To analyze the Market cap of the BOVESPA against online consumer spending in Brazil amongst a variety of product categories. 
+- To observe any economic trends between 2016 and 2018 based on e-commerce spending habits by Brazilian citizens.
 
 
-DataSets: 
-Brazilian E-Commerce dataset 
-Central Bank of Brazil API - CPI, BOVESPA, and employment statistics 
-
-#Adam's Comments locations (Starts with #ADAM LUKE:)
-
-File:                       Block in file: 
-BOVESPAData.ipynb           block in [2]
-                            block in [7]
-
-CPI_employment.ipynb        block in [14]
-
-ECommerceDataMerge.ipynb    3rd block from top (not numbered)
 
