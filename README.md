@@ -21,5 +21,7 @@
 - To analyze the Market cap of the BOVESPA against online consumer spending in Brazil amongst a variety of product categories. 
 - To observe any economic trends between 2016 and 2018 based on e-commerce spending habits by Brazilian citizens.
 
-
+## Findings
+- Some product categories were not affected by the change in the BOVESPA Index and exhibited regression graphs like the following:
+![alt text](https://github.com/BShim92/BrazilianECommerce/blob/master/Graphs/BOVbooks.png)
 
