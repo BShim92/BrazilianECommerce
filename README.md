@@ -22,11 +22,11 @@
 - To observe any economic trends between 2016 and 2018 based on e-commerce spending habits by Brazilian citizens.
 
 ## Findings
-- Some product categories (books, food/drink, industry) were not affected by the change in the BOVESPA Index and exhibited regression graphs like the following:
+- Some product categories (books, food/drink, industry) were not affected by the change in the BOVESPA Index (low slopes) and exhibited regression graphs like the following:
 
 ![alt text](https://github.com/BShim92/BrazilianECommerce/blob/master/Graphs/BOVbooks.png)
 
-- Most product categories (fashion/clothing, home/furniture, construction/tools, electronics, appliances, auto, other) were affected by the change in the BOVESPA Index and exhibited regression graphs like the following:
+- Most product categories (fashion/clothing, home/furniture, construction/tools, electronics, appliances, auto, other) were affected by the change in the BOVESPA Index (higher slopes) and exhibited regression graphs like the following:
 
 ![alt text](https://github.com/BShim92/BrazilianECommerce/blob/master/Graphs/BOVelectronics.png)
 
