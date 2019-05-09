@@ -29,3 +29,19 @@
 - Most product categories (fashion/clothing, home/furniture, construction/tools, electronics, appliances, auto, other) were affected by the change in the BOVESPA Index and exhibited regression graphs like the following:
 
 ![alt text](https://github.com/BShim92/BrazilianECommerce/blob/master/Graphs/BOVelectronics.png)
+
+- Total Revenue vs BOVESPA
+
+![alt text](https://github.com/BShim92/BrazilianECommerce/blob/master/Graphs/TotalRevenueVsBOV.png)
+
+- Some product categories had purchases coming from a more widespread area:
+
+![alt text](https://github.com/BShim92/BrazilianECommerce/blob/master/Graphs/Construction%20Tools%20Revenue%20by%20Location.png)
+
+![alt text](https://github.com/BShim92/BrazilianECommerce/blob/master/Graphs/Construction%20Tools%20Revenue%20by%20Location_PLT.png)
+
+- Other product categories only had purchases coming from a few areas:
+
+![alt text](https://github.com/BShim92/BrazilianECommerce/blob/master/Graphs/Food%20Drink%20Revenue%20by%20Location.png)
+
+![alt text](https://github.com/BShim92/BrazilianECommerce/blob/master/Graphs/Food%20Drink%20Revenue%20by%20Location_PLT.png)
